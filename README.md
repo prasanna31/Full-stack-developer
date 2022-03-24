@@ -1,6 +1,6 @@
 # Full-stack-development <br>
 Complete guide to become a java full stack developer.<br>
-All the empty files added are just for my reference. I will fill them in future whenever required.<br>
+All the empty files added are just for my reference. I will fill them in future whenever required.
    <br> 1.HTML 
    <br> 2.CSS
    <br> 3.Javascript
